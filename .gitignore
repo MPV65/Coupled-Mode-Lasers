@@ -6,5 +6,6 @@
 *.asv
 *.ASV
 
-# Ignore this directory
+# Ignore these directories
 Coupled-Waveguides/
+Laser-Array-3/
